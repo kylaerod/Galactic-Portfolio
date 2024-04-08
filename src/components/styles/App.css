@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("./pixelSpace.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #39FF14;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center; 
+}
+
+.header {
+  text-align: center;
+  padding: 20px 0;
+  color: #04D9FF;
+}
+
+.content {
+  padding: 20px;
+  color: red;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px 0;
+  color: #04D9FF;
+}
+
+.background-link {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  color: rgb(85, 255, 0);
+  text-decoration: none;
+  font-size: 12px;
+}

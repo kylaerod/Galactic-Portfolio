@@ -2,9 +2,10 @@ import React from 'react';
 
 function Resume() {
   return (
-    <section>
+    <section id="resume">
       <h2>Resume</h2>
-      <p>Short bio about the developer</p>
+      <p>I am new to the world of coding but am ready to work hard, learn, and always grow!</p>
+      <a className="resume-link" href="/Kyla_Rodriguezs_Resume.pdf" download>Kyla Rodriguez's Resume</a>
     </section>
   );
 }
