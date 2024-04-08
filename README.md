@@ -20,7 +20,7 @@ This project was completed from scratch using HTML, CSS, React, Express, and Jav
 
 By starting with a basic skeleton, you then add several components to dedicate React code to each moving part. 
 
-![View of Page](./styles/PortfolioAlien.png)
+![View of Page](src/components/styles/PortfolioAlien.png)
 
 ## Credits
 
